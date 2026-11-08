@@ -1,1 +1,1 @@
-https://github.com/arkerwwy/slozhno-sosredotochitsya-fd;
+https://github.com/arkerwwy/slozhno-sosredotochitsya-fd
